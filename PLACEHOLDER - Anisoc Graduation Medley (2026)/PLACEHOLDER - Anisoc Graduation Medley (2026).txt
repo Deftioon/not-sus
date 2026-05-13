@@ -1,0 +1,16 @@
+#ARTIST:PLACEHOLDER
+#TITLE:Anisoc Graduation Medley (2026)
+#AUDIO:PLACEHOLDER - Anisoc Graduation Medley (2026).mp3
+#MP3:PLACEHOLDER - Anisoc Graduation Medley (2026).mp3
+#COVER:PLACEHOLDER - Anisoc Graduation Medley (2026) [CO].jpg
+#BACKGROUND:PLACEHOLDER - Anisoc Graduation Medley (2026) [BG].jpg
+#VIDEO:PLACEHOLDER - Anisoc Graduation Medley (2026).mp4
+#BPM:1500.0
+#GAP:0
+#YEAR:2026
+#LANGUAGE:Japanese
+#CREATOR:Exec
+#GENRE:Anime, Medley
+#TAGS:PLACEHOLDER
+: 0 3 0 ~
+E
